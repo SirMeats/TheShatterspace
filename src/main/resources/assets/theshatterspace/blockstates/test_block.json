@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "theshatterspace:block/test_block"
+    }
+  }
+}
